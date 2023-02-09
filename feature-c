@@ -2,3 +2,6 @@ body{
     color:red;
     padding:3opx
 }
+title{
+    color:green;
+}
